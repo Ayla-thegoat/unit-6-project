@@ -1,5 +1,6 @@
 {
     "name": "unit 6 project",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
